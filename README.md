@@ -9,6 +9,9 @@ https://www.wordfrequency.info/free.asp
 ### Added snippet 
 We have implemented this feature to display a brief summary of the information in the document
 
+### Requirment
+1 . Java
+2 . Apache Lucene 
 
-### Instalation
-tbd
+### Installation
+
